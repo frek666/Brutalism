@@ -41,4 +41,3 @@ Despite its appeal, brutalism is often criticized for:
 ## **Conclusion**  
 Brutalism is more than just a style—it’s a philosophy that prioritizes function over aesthetics. In the digital age, it has become a form of rebellion against over-polished design. If you value honesty in visual language, brutalism can be a powerful tool for self-expression.  
 
-**What do you think?** Do you like brutalism, or does it feel too harsh?
