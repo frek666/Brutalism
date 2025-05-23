@@ -40,4 +40,22 @@ The ability to quickly launch a website without spending extra time on a detaile
 
 Brutal aesthetics.
 
+---
 
+Disadvantages of brutalism in web design:
+
+It is not suitable in all fields of activity.
+
+There is no guarantee that the audience will appreciate the brutal beauty. 
+
+Limitation of the web designer's freedom of action.
+
+---
+
+So, who can use the site in the style of brutality?
+
+Brutalism looks organically in fields of activity characterized by precision, simplicity and austerity.
+For example, brutalism can be used for the website of a construction company, a museum, a theater, a metallurgical plant, a men's barber shop with whiskey at the entrance, the website of movers and architects.
+Elements of brutalism are used on websites of different trends, so there is no clear line of limitation. Historically, brutalism in design has been more suitable for web resources with a predominantly male audience.
+
+![wqw_1](https://github.com/user-attachments/assets/190c72e0-f601-4dd6-a61c-3b715987b1ef)
