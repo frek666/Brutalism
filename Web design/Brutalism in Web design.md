@@ -40,6 +40,8 @@ The ability to quickly launch a website without spending extra time on a detaile
 
 Brutal aesthetics.
 
+![brutal_sayt](https://github.com/user-attachments/assets/dc59745c-9c7e-4688-b3b6-b4a96707967c)
+
 ---
 
 Disadvantages of brutalism in web design:
