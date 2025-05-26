@@ -1,63 +1,59 @@
+### **Brutalism in Web Design: Raw, Simple, Functional**  
 
-Brutalism is one of the bright trends in web design.
-Functionality, rudeness, massive shapes, strength — all these are features of brutalism.
-The fashion for brutalism appeared in website design in 2014 and reached its peak in 2020.
-In 2022, brutalism is more likely to be considered underground.
+Brutalism is one of the most striking trends in web design. Its key features are **functionality, raw forms, heaviness, and strength**.  
 
-What are the distinguishing features of brutalism in website design?
+This style gained popularity in website design around **2014**, peaked in **2020**, and by **2022**, it had moved into the underground scene.  
 
-Brutalism in web design spits on neat shapes, opposes itself to overly pretentious sites, prefers simplification instead of complication.
-In a computer game, brutalism would be a rude warrior with a sword or mace in his hand.
-Brutalism is a bold style that deliberately combines rudeness, standardization and clumsy clarity.
-There is nothing superfluous in this style, everything is clear on a subconscious level and all the information is purely on the case.
+#### **What Defines Brutalism in Web Design?**  
 
----
+Brutalism rejects elegant forms and pretentiousness, favoring **simplification** over complexity. If this style were a video game character, it would look like a rugged warrior with a sword or a mace.  
 
-Brutalism basically has the following characteristics:
+Brutalism is a **deliberate mix** of rawness, standardization, and intentionally "unpolished" clarity. There’s nothing superfluous—everything is intuitive and straight to the point.  
 
+#### **Key Features of Brutalist Design**  
 
-Minimal or no decorative elements or animations. 
+✔ **Minimal decoration** – no complex animations or embellishments.  
+✔ **Classic color palette** – mostly white, gray, black.  
+✔ **"Raw" HTML** – often without CSS or with minimal use.  
+✔ **Clear lines and block separation** – resembles a text document or grid paper.  
+✔ **Black-and-white images** – no filters or editing.  
+✔ **Standard fonts** – Times New Roman, Arial, Helvetica.  
 
-Classic colors. Predominantly white, grey and black.
+![Example of brutalist design](https://github.com/user-attachments/assets/dc59745c-9c7e-4688-b3b6-b4a96707967c)  
 
-Naked HTML without using CSS.
+#### **Advantages of Brutalism**  
 
-Clear lines and delineation of objects on the page. The design is similar to the trinity in a text document or a checkered notebook. 
+✅ **Low development cost** – less time spent on design.  
+✅ **Fast loading speed** – minimal graphics.  
+✅ **Quick website launch** – no need for detailed visual refinement.  
+✅ **Unique aesthetic** – bold, raw, and straightforward.  
 
-Black and white images and images without filter processing.
+#### **Disadvantages of Brutalist Style**  
 
-Deliberate use of standard fonts and standard design elements.
+❌ **Not suitable for all industries** – not every business needs such austerity.  
+❌ **Risk of audience misunderstanding** – not everyone appreciates "raw" beauty.  
+❌ **Limits designer creativity** – strict stylistic constraints.  
 
----
+#### **Who Should Use Brutalist Design?**  
 
-The advantages of brutalism in web design:
+Brutalism works well in fields where **simplicity, rigor, and functionality** matter:  
 
-Low cost of development.
+- Construction companies  
+- Museums and theaters  
+- Metallurgical plants  
+- Men’s barbershops  
+- Websites for movers, architects, engineers  
 
-Fast page loading speed due to the small amount of graphics on the site.
+Historically, brutalism has been used more in projects targeting a **male audience**, but there are no strict rules—elements of the style can even be found in modern minimalist websites.  
 
-The ability to quickly launch a website without spending extra time on a detailed design study.
+![Another example of brutalist design](https://github.com/user-attachments/assets/190c72e0-f601-4dd6-a61c-3b715987b1ef)  
 
-Brutal aesthetics.
+---  
 
-![brutal_sayt](https://github.com/user-attachments/assets/dc59745c-9c7e-4688-b3b6-b4a96707967c)
+### **Final Thoughts**  
+Brutalism is a **bold, concise, and cost-effective** style. It’s not for everyone, but where it fits, it makes a powerful impression.  
 
----
+If your brand values **directness, functionality, and a rebellious spirit**—it’s worth a try!  
 
-Disadvantages of brutalism in web design:
+---  
 
-It is not suitable in all fields of activity.
-
-There is no guarantee that the audience will appreciate the brutal beauty. 
-
-Limitation of the web designer's freedom of action.
-
----
-
-So, who can use the site in the style of brutality?
-
-Brutalism looks organically in fields of activity characterized by precision, simplicity and austerity.
-For example, brutalism can be used for the website of a construction company, a museum, a theater, a metallurgical plant, a men's barber shop with whiskey at the entrance, the website of movers and architects.
-Elements of brutalism are used on websites of different trends, so there is no clear line of limitation. Historically, brutalism in design has been more suitable for web resources with a predominantly male audience.
-
-![wqw_1](https://github.com/user-attachments/assets/190c72e0-f601-4dd6-a61c-3b715987b1ef)
