@@ -11,4 +11,5 @@ The residential buildings are connected by heated halls on the ground floor, so 
 
 ![01-brutalism-moscow-desk](https://github.com/user-attachments/assets/220ce0ba-ce60-4510-91ff-1bb1719b08c6)
 
-![Uploading 02-brutalism-moscow.png…]()
+![02-brutalism-moscow](https://github.com/user-attachments/assets/86b83447-4094-4178-9b64-9169eac05b73)
+
