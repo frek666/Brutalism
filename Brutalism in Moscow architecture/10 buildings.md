@@ -28,3 +28,15 @@ In addition to the "legs", the Aviator's House has many other unique features: r
 
 ![08-brutalism-moscow](https://github.com/user-attachments/assets/191f66f6-c40c-468c-890e-028716824ab2)
 
+3. The House of Nuclear Scientists on Tulskaya
+
+map
+https://yandex.com/maps/org/dom_korabl/129890625466/?ll=37.620770%2C55.709018&z=17
+
+This monster house stretches along the highway for almost half a kilometer. The residential part is raised to the level of the fifth floor and is supported by a colonnade of more than 50 reinforced concrete pillars. Public spaces, cafes and shops are located between them.
+
+The house was built for almost 20 years: from the beginning of the 1970s to the end of the 1980s. According to legend, chief architect Vladimir Babak was a specialist in nuclear reactors and introduced a number of specific know-how into the project: in particular, an experimental ventilation system and extra-thick glass to protect against noise. The walls are positioned at an angle of 87° and 93° relative to each other — for greater stability and in case of an earthquake or nuclear war.
+
+![12-brutalism-moscow-desk](https://github.com/user-attachments/assets/43940967-ee7e-471b-a68e-d9eb872010dc)
+
+![13-brutalism-moscow](https://github.com/user-attachments/assets/807a77c4-c000-4597-bbee-14d13b6c5ac9)
