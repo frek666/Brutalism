@@ -40,3 +40,17 @@ The house was built for almost 20 years: from the beginning of the 1970s to the 
 ![12-brutalism-moscow-desk](https://github.com/user-attachments/assets/43940967-ee7e-471b-a68e-d9eb872010dc)
 
 ![13-brutalism-moscow](https://github.com/user-attachments/assets/807a77c4-c000-4597-bbee-14d13b6c5ac9)
+
+.4 Roscosmos on Shchepkin Street
+
+map
+https://yandex.com/maps/213/moscow/house/ulitsa_shchepkina_42s1/Z04YcARgTE0HQFtvfXt5cnhjYw==/?ll=37.630580%2C55.783408&z=17
+
+The name of the architect of this building is unknown — apparently, the object was so secret that even such information was hidden. The austere facade, the only decoration of which is the vertical ribs of the structures, tinted windows — an unheard-of luxury for that time.
+
+The staircase nodes located at the ends are reminiscent of the architecture of Tokyo or New York. The four—story building at the base of the tower is a fairly accurate replica of Boston City Hall, considered by architecture critics to be one of the ugliest examples of brutalism.
+
+![17-brutalism-moscow-desk](https://github.com/user-attachments/assets/0b58ea63-fabf-44b4-ae32-2603b932f533)
+
+![18-brutalism-moscow](https://github.com/user-attachments/assets/859b55b2-31ff-4e35-aac4-68a773801095)
+
