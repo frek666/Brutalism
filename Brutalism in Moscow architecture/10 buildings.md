@@ -1,4 +1,4 @@
-###10 buildings
+###  10 buildings
 
 1. Chertanovo Severnoye residential area
 
