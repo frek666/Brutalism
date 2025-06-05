@@ -54,3 +54,33 @@ The staircase nodes located at the ends are reminiscent of the architecture of T
 
 ![18-brutalism-moscow](https://github.com/user-attachments/assets/859b55b2-31ff-4e35-aac4-68a773801095)
 
+.5 The Olympic Games-80 Press Center
+
+map
+https://yandex.com/maps/org/ria_novosti/1061985604/?ll=37.589812%2C55.737575&z=16
+
+The main object of the Olympics-80 was not the stadium or the Sports Palace, but the press center: foreign journalists needed to be shown the best version of the USSR.
+
+The six-storey building with an area of more than 30,000 m2 was built in just four years and equipped with the latest technology. Four more underground levels had to be added to accommodate the bulky equipment for ventilation, heating and electricity supply.
+
+![22-brutalism-moscow-desk](https://github.com/user-attachments/assets/55df5b9f-288b-4cb3-ae12-1e23c7692f81)
+
+![23-brutalism-moscow](https://github.com/user-attachments/assets/dfe5db3e-41bd-4c0b-945e-0281f417ceef)
+
+.6 Blokhin National Research Medical Center of Oncology
+
+map
+https://yandex.com/maps/org/natsionalny_meditsinskiy_issledovatelskiy_tsentr_onkologii_imeni_n_n_blokhina/1320678043/?ll=37.644306%2C55.659429&z=17
+
+Built in the 1970s by architect Vinogradsky, the Blokhin National Research Medical Center of Oncology stretches along Kashirskoye Highway for half a kilometer.
+
+The central part of the complex is a 23—storey high-rise, which is popularly called the Flea Tower. Its exterior and interiors resemble architecture from the Star Wars universe — the abstract glazed tile panels decorating the spacious central hall could easily decorate a Jedi temple.
+
+The tower is surrounded by blocks of hospital buildings, raised to the level of the third floor by an elegant colonnade. The thin reinforced concrete supports contrast sharply with the powerful ribs of the pylons supporting the wings of the central structure. Ribbon glazing encircles the buildings around the perimeter, visually making them even more elongated.
+
+![27-brutalism-moscow-desk](https://github.com/user-attachments/assets/81cb84df-ea27-4851-9c5b-18841df52175)
+
+![28-brutalism-moscow](https://github.com/user-attachments/assets/b75d7c9a-b9c5-40a7-93dd-1390200bc0fc)
+
+
+
