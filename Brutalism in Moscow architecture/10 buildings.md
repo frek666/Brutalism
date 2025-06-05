@@ -9,7 +9,7 @@ Built in 1979 by architect Posokhin, the complex revolutionized residential cons
 
 The residential buildings are connected by heated halls on the ground floor, so that you can get from one end of the neighborhood to the other without going outside. Schools, libraries, shops, and cafes were designed according to the "everything in the house" principle: their entrances were located in the lobbies of residential buildings. This turned the neighborhood into a self-sufficient residential unit.
 
-попробуй ссылкой с источника 
+###  попробуй ссылкой с источника 
 
 ![01-brutalism-moscow-desk](https://github.com/user-attachments/assets/220ce0ba-ce60-4510-91ff-1bb1719b08c6)
 
