@@ -13,3 +13,18 @@ The residential buildings are connected by heated halls on the ground floor, so 
 
 ![02-brutalism-moscow](https://github.com/user-attachments/assets/86b83447-4094-4178-9b64-9169eac05b73)
 
+2. Aviators' House on Begovaya
+
+map
+https://yandex.com/maps/org/dom_aviatorov/181679471355/?ll=37.564330%2C55.783656&z=17
+
+The most complete and well-preserved example of a Brutalist residential building, built in 1978 by architect Andrei Meerson. The guests of the Olympic Games-80 were supposed to live here, but in the end, employees of the Znamya Truda trust settled in.
+
+The project refers to the constructivism of the 1920s and is reminiscent of the famous Marseille Unité d'habitation complex built by Le Corbusier. The massive shape of the building is visually facilitated by 40 reinforced concrete pillars.
+
+In addition to the "legs", the Aviator's House has many other unique features: rough surfaces with traces of wooden formwork, stairwells outside, similar to fortress towers with loopholes, a cunning design of overlapping facade slabs — for better bonding and thermal insulation, there are even concrete bowls for flower beds on each balcony. It was here that monolithic construction technology was used for the first time in the USSR.
+
+![07-brutalism-moscow-desk](https://github.com/user-attachments/assets/3dbfe066-c72e-4d32-9b9e-ce1f8cd2e437)
+
+![08-brutalism-moscow](https://github.com/user-attachments/assets/191f66f6-c40c-468c-890e-028716824ab2)
+
