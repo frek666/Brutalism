@@ -4,6 +4,8 @@
 <img src="https://cdn.mos.cms.futurecdn.net/BgYQUB6A4x8Hqc4oDtn6aj-1024-80.jpg.webp"/>
 
 While brutalist buildings and their formidable exteriors can feel at odds with nature, Brutalist Plants, by Olivia Broome, shows otherwise. This beautifully-photographed tome captures the beauty of stark concrete architecture alongside lush environments—a tactic that many architects used to soften their buildings. Here you'll take in inspiring images of modernist classics and contemporary structures alike engulfed in greenery—proof that calm can co-exist with a concrete jungle.
+---
+В то время как здания в стиле брутализм и их внушительный внешний вид могут показаться противоречащими природе, "Растения в стиле брутализма" Оливии Брум доказывает обратное. Этот прекрасно сфотографированный том отражает красоту суровой бетонной архитектуры в сочетании с пышной растительностью - тактика, которую многие архитекторы использовали для смягчения своих зданий. Здесь вы увидите вдохновляющие образы классики модерна и современных зданий, утопающих в зелени, — доказательство того, что спокойствие может сосуществовать с бетонными джунглями.
 
 ###  Brutalist Italy
 <img src="https://cdn.mos.cms.futurecdn.net/BDdmepHTieYbeuiyYqWFvG-1024-80.jpg.webp"/>
