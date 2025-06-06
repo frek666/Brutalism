@@ -37,9 +37,9 @@ This monster house stretches along the highway for almost half a kilometer. The 
 
 The house was built for almost 20 years: from the beginning of the 1970s to the end of the 1980s. According to legend, chief architect Vladimir Babak was a specialist in nuclear reactors and introduced a number of specific know-how into the project: in particular, an experimental ventilation system and extra-thick glass to protect against noise. The walls are positioned at an angle of 87° and 93° relative to each other — for greater stability and in case of an earthquake or nuclear war.
 
-<img src="https://opis-cdn.tinkoffjournal.ru/mercury/07-brutalism-moscow-desk.jpg"/>
+<img src="https://opis-cdn.tinkoffjournal.ru/mercury/12-brutalism-moscow-desk.jpg"/>
 
-<img src="https://opis-cdn.tinkoffjournal.ru/mercury/08-brutalism-moscow.jpg?preset=image_760w_2x"/>
+<img src="https://opis-cdn.tinkoffjournal.ru/mercury/13-brutalism-moscow.jpg?preset=image_760w_2x"/>
 
 .4 Roscosmos on Shchepkin Street
 
