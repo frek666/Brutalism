@@ -9,9 +9,9 @@ Built in 1979 by architect Posokhin, the complex revolutionized residential cons
 
 The residential buildings are connected by heated halls on the ground floor, so that you can get from one end of the neighborhood to the other without going outside. Schools, libraries, shops, and cafes were designed according to the "everything in the house" principle: their entrances were located in the lobbies of residential buildings. This turned the neighborhood into a self-sufficient residential unit.
 
-<img src="https://opis-cdn.tinkoffjournal.ru/mercury/07-brutalism-moscow-desk.jpg"/>
+<img src="https://opis-cdn.tinkoffjournal.ru/mercury/01-brutalism-moscow-desk.jpg"/>
 
-<img src="https://opis-cdn.tinkoffjournal.ru/mercury/08-brutalism-moscow.jpg?preset=image_760w_2x"/>
+<img src="https://opis-cdn.tinkoffjournal.ru/mercury/02-brutalism-moscow.jpg?preset=image_760w_2x"/>
 
 2. Aviators' House on Begovaya
 
