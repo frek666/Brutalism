@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/13b40881-616e-4859-be0b-e1517088cc47)###  10 buildings
+
 
 ###  1. Chertanovo Severnoye residential area
 
