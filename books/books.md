@@ -64,7 +64,7 @@ For a view into Brutalism's wilder side, add this tome about the architecture of
 Чтобы взглянуть на брутализм с более дикой стороны, добавьте на свою книжную полку книгу "Расскажи мне об архитектуре бывшего СССР". Представленные здесь потусторонние здания и памятники, построенные в период с 1970 по 1990 год, отражают идеологию того времени, их архитектура поражает и озадачивает одновременно.
 
 ###  The Brutalists: Brutalism's Best Architects
-<img src="https://cdn.mos.cms.futurecdn.net/JgVh57Wa2xmZ5gJyXtRb35-1024-80.jpg.webp"/>
+<img src="https://optim.tildacdn.com/stor3836-6362-4336-b661-333761343463/-/format/webp/57233687.jpg.webp"/>
 
 This book takes a look at the architects behind the monolithic, concrete facades. Flip through its pages and encounter 250 architects, both historic and contemporary, that have shaped brutalism as we know it today, through 200 renowned and forgotten works. With more than 350 photographs, The Brutalists is so much more than mere eye-candy.
 ---
