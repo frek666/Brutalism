@@ -50,9 +50,9 @@ The name of the architect of this building is unknown — apparently, the object
 
 The staircase nodes located at the ends are reminiscent of the architecture of Tokyo or New York. The four—story building at the base of the tower is a fairly accurate replica of Boston City Hall, considered by architecture critics to be one of the ugliest examples of brutalism.
 
-<img src="https://opis-cdn.tinkoffjournal.ru/mercury/12-brutalism-moscow-desk.jpg"/>
+<img src="https://opis-cdn.tinkoffjournal.ru/mercury/17-brutalism-moscow-desk.jpg"/>
 
-<img src="https://opis-cdn.tinkoffjournal.ru/mercury/13-brutalism-moscow.jpg?preset=image_760w_2x"/>
+<img src="https://opis-cdn.tinkoffjournal.ru/mercury/18-brutalism-moscow.jpg?preset=image_760w_2x"/>
 
 .5 The Olympic Games-80 Press Center
 
