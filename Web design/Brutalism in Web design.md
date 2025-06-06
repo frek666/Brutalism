@@ -19,7 +19,7 @@ Brutalism is a **deliberate mix** of rawness, standardization, and intentionally
 ✔ **Black-and-white images** – no filters or editing.  
 ✔ **Standard fonts** – Times New Roman, Arial, Helvetica.  
 
-![Example of brutalist design](https://github.com/user-attachments/assets/dc59745c-9c7e-4688-b3b6-b4a96707967c)  
+<img src="https://idbi.ru/upload/files/1/1965/11806637/original/3_1713263c7bb850b58789a733b72b6805.jpg"/> 
 
 #### **Advantages of Brutalism**  
 
@@ -46,7 +46,7 @@ Brutalism works well in fields where **simplicity, rigor, and functionality** ma
 
 Historically, brutalism has been used more in projects targeting a **male audience**, but there are no strict rules—elements of the style can even be found in modern minimalist websites.  
 
-![Another example of brutalist design](https://github.com/user-attachments/assets/190c72e0-f601-4dd6-a61c-3b715987b1ef)  
+<img src="https://www.umi-cms.ru/images/cms/data/articles/brutalizm/brutal_sayt.jpg"/>  
 
 ---  
 
