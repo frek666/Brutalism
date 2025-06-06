@@ -24,3 +24,33 @@ Concrete Architecture offers more than a century’s worth of the world’s most
 <img src="https://cdn.mos.cms.futurecdn.net/NCCwoF8mC4tFb3d377TZrG-1024-80.jpg.webp"/>
 
 Brutalist Paris, the first book from the design-focussed map-making company Blue Crow Media, a photographic study of the French capital’s surviving brutalist treasures. This book is not one to skim through, as it focuses on 50 of the French capital’s buildings, each with accompanying academic essays that explore French culture’s deep relationship with architecture, modernity and social change.
+
+###  Brutal Wales
+<img src="https://cdn.mos.cms.futurecdn.net/B3KsXCYVucSXEyNwBAQ2an-1024-80.jpg.webp"/>
+
+Brutal Wales dives deep into the surprising history of modern Welsh architecture. This hefty volume is part of a series of publications by Simon Phipps, who has been investigating brutalist architecture across the country for more than 20 years. The book is designed by Marc Jennings, and comes with both Welsh and English language text throughout.
+
+###  Finding Brutalism: A Photographic Survey of Post-War British Architecture
+<img src="https://cdn.mos.cms.futurecdn.net/6giQgkTpvkDmnpaYXZ6FR8-1024-80.jpg.webp"/>
+
+Simon Phipps is back with another brutalism tome. Yet if you think this fine art photographer is just about aesthetics, think again. Instead, through his lens, he captured the rebuilding of Britain after World War II. Of course the imagery appeals to the eye, however this collection and extensive research also documents the political and social landscape following the aftermath of the war.
+
+###  Redefining Brutalism
+<img src="https://cdn.mos.cms.futurecdn.net/QbfFmCZY6qjP6qKN4NBtpm-1024-80.jpg.webp"/>
+
+Simon Henley, an award-winning architect, knows a thing or two about a materials-led approach to designing buildings. But, rather than architecture, this book focuses on the social idealism that underpinned so many of brutalist buildings. For Henley the best examples were a response to society and free from hierarchies. The book goes deep into the critique of brutalism, both positive and negative, and frames this architectural movement as a living and evolving entity.
+
+###  Frédéric Chaubin. CCCP. Cosmic Communist Constructions
+<img src="https://cdn.mos.cms.futurecdn.net/KWGF7Krj9BMdvHp3eWJALE-1024-80.png.webp"/>
+
+For a view into Brutalism's wilder side, add this tome about the architecture of the former USSR to your bookshelf. The other-worldly buildings and monuments on display here – constructed between 1970 and 1990 – reflect the ideology of the time with architecture that awes as much as it puzzles.
+
+###  The Brutalists: Brutalism's Best Architects
+<img src="https://cdn.mos.cms.futurecdn.net/JgVh57Wa2xmZ5gJyXtRb35-1024-80.jpg.webp"/>
+
+This book takes a look at the architects behind the monolithic, concrete facades. Flip through its pages and encounter 250 architects, both historic and contemporary, that have shaped brutalism as we know it today, through 200 renowned and forgotten works. With more than 350 photographs, The Brutalists is so much more than mere eye-candy.
+
+###  The New Brutalism
+<img src="https://books.totalarch.com/files/title/5521.jpg"/>
+
+The book examines an architectural trend called "brutalism" by critics and architects of the West. It describes what the Smithsonian Brutalist creative program could have become and what it has become. The stages of the transformation of brutalism from a movement into a "style" are analyzed: the polemic of post-war functionalism with pre-war (the collapse of SIAM), the influence of Le Corbusier, the transformation of vague socio-ethical ideas into clear aesthetic ones, the transformation of the "architecture of reforms" into another architectural reform. The book is richly illustrated. The publication is intended for architects and art historians.
