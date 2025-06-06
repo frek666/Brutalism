@@ -81,3 +81,18 @@ The tower is surrounded by blocks of hospital buildings, raised to the level of 
 <img src="https://opis-cdn.tinkoffjournal.ru/mercury/27-brutalism-moscow-desk.jpg"/>
 
 <img src="https://opis-cdn.tinkoffjournal.ru/mercury/28-brutalism-moscow.jpg?preset=image_760w_2x"/>
+
+###  .7 Institute of Bioorganic Chemistry
+
+map
+https://yandex.com/maps/org/institut_bioorganicheskoy_khimii_imeni_akademikov_m_m_shemyakina_i_yu_a_ovchinikova_ran/101690191073/?ll=37.511221%2C55.648113&z=17
+
+From the street, the building looks almost cozy — an atypical effect for brutalism. The facade is surrounded by greenery, perfectly masking its cyclopean size. This is also facilitated by the design: the four buildings are arranged along a single diagonal axis relative to each other. They form three enclosed courtyards and leave a large space for landscaping from the street.
+
+These square courtyards make an even more contrasting impression from the inside. Lifeless empty spaces, the only decoration of which are illuminated lanterns that provide sunlight to vast underground rooms.
+
+The courtyards are sterile, like a scientific laboratory, and resemble the scenery for the movie "Equilibrium". The lack of inner comfort underlines the idea of architect Yuri Platonov. From a bird's—eye view, it can be seen that the building has the shape of a wriggling DNA ribbon - the image turned out to be so successful that it became the basis of the institute's logo.
+
+<img src="https://opis-cdn.tinkoffjournal.ru/mercury/32-brutalism-moscow-desk.jpg"/>
+
+<img src="https://avatars.mds.yandex.net/get-altay/2006773/2a0000016b6fcec99cb6b8b3db9a04f0ff10/XXXL"/>
