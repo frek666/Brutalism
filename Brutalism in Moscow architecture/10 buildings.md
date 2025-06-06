@@ -24,9 +24,9 @@ The project refers to the constructivism of the 1920s and is reminiscent of the 
 
 In addition to the "legs", the Aviator's House has many other unique features: rough surfaces with traces of wooden formwork, stairwells outside, similar to fortress towers with loopholes, a cunning design of overlapping facade slabs — for better bonding and thermal insulation, there are even concrete bowls for flower beds on each balcony. It was here that monolithic construction technology was used for the first time in the USSR.
 
-![07-brutalism-moscow-desk](https://github.com/user-attachments/assets/3dbfe066-c72e-4d32-9b9e-ce1f8cd2e437)
+<img src="https://opis-cdn.tinkoffjournal.ru/mercury/01-brutalism-moscow-desk.jpg"/>
 
-![08-brutalism-moscow](https://github.com/user-attachments/assets/191f66f6-c40c-468c-890e-028716824ab2)
+<img src="https://opis-cdn.tinkoffjournal.ru/mercury/02-brutalism-moscow.jpg?preset=image_760w_2x"/>
 
 3. The House of Nuclear Scientists on Tulskaya
 
@@ -37,9 +37,9 @@ This monster house stretches along the highway for almost half a kilometer. The 
 
 The house was built for almost 20 years: from the beginning of the 1970s to the end of the 1980s. According to legend, chief architect Vladimir Babak was a specialist in nuclear reactors and introduced a number of specific know-how into the project: in particular, an experimental ventilation system and extra-thick glass to protect against noise. The walls are positioned at an angle of 87° and 93° relative to each other — for greater stability and in case of an earthquake or nuclear war.
 
-![12-brutalism-moscow-desk](https://github.com/user-attachments/assets/43940967-ee7e-471b-a68e-d9eb872010dc)
+<img src="https://opis-cdn.tinkoffjournal.ru/mercury/07-brutalism-moscow-desk.jpg"/>
 
-![13-brutalism-moscow](https://github.com/user-attachments/assets/807a77c4-c000-4597-bbee-14d13b6c5ac9)
+<img src="https://opis-cdn.tinkoffjournal.ru/mercury/08-brutalism-moscow.jpg?preset=image_760w_2x"/>
 
 .4 Roscosmos on Shchepkin Street
 
@@ -50,9 +50,9 @@ The name of the architect of this building is unknown — apparently, the object
 
 The staircase nodes located at the ends are reminiscent of the architecture of Tokyo or New York. The four—story building at the base of the tower is a fairly accurate replica of Boston City Hall, considered by architecture critics to be one of the ugliest examples of brutalism.
 
-![17-brutalism-moscow-desk](https://github.com/user-attachments/assets/0b58ea63-fabf-44b4-ae32-2603b932f533)
+<img src="https://opis-cdn.tinkoffjournal.ru/mercury/12-brutalism-moscow-desk.jpg"/>
 
-![18-brutalism-moscow](https://github.com/user-attachments/assets/859b55b2-31ff-4e35-aac4-68a773801095)
+<img src="https://opis-cdn.tinkoffjournal.ru/mercury/13-brutalism-moscow.jpg?preset=image_760w_2x"/>
 
 .5 The Olympic Games-80 Press Center
 
