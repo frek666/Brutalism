@@ -1,4 +1,4 @@
-###  10 buildings
+![image](https://github.com/user-attachments/assets/13b40881-616e-4859-be0b-e1517088cc47)###  10 buildings
 
 ###  1. Chertanovo Severnoye residential area
 
@@ -100,6 +100,8 @@ The courtyards are sterile, like a scientific laboratory, and resemble the scene
 ###  .8 The building of the Presidium of the Russian Academy of Sciences
 
 map
+https://yandex.com/maps/org/prezidium_rossiyskoy_akademii_nauk/1394797169/?ll=37.575838%2C55.710687&z=17
+
 The most famous example of brutalism in Moscow. And the tallest one, the 120-meter central tower, is still the only dominant one in the Leninsky Prospekt metro area. The construction of the complex took an incredible 24 years: the foundation was laid in 1974, and the last of the buildings were commissioned after the collapse of the USSR in 1996.
 
 Long-term construction often leads to a mixture of styles, and the Presidium of the Russian Academy of Sciences has not escaped this fate. To the strict modernist ideals, the prefix "post", characteristic of the "Luzhkov" 1990s, was imperceptibly added. Archaic landscaping, inappropriate small outbuildings and decorations, sculptures by Georgy Frangulyan — all this greatly violated the original idea of architect Yuri Platonov — to create an architectural embodiment of scientific and technological progress.
@@ -108,3 +110,15 @@ Long-term construction often leads to a mixture of styles, and the Presidium of 
 
 <img src="https://opis-cdn.tinkoffjournal.ru/mercury/38-brutalism-moscow.jpg?preset=image_760w_2x"/>
 
+###  .9 Dynamo Sports Palace
+
+map
+https://yandex.com/maps/org/dvorets_sporta_dinamo/1099572075/?indoorLevel=1&ll=37.495806%2C55.855532&z=17
+
+The sports complex built for the 1980 Moscow Olympics in the Khovrino district was ignored by architectural critics and fans of Soviet architecture. But in vain: the building has bright stylistic features, and a rare degree of preservation in its original form. The Sports Palace has passed both the reconstruction of the nineties and the inept renovation that ruined many historical sports facilities in the city.
+
+Dynamo was built inside residential areas and is carefully integrated into the high-rise buildings of the district. The central part of the building with the inclined planes of the stands resembles the early designs of the constructivists. The facade is cut by eight reinforced concrete pillars, the space between them is decorated with corrugated metal tiles — an unusual detail for Moscow architecture of late socialism.
+
+<img src="https://opis-cdn.tinkoffjournal.ru/mercury/42-brutalism-moscow-desk.jpg"/>
+
+<img src="https://opis-cdn.tinkoffjournal.ru/mercury/43-brutalism-moscow.jpg?preset=image_760w_2x"/>
