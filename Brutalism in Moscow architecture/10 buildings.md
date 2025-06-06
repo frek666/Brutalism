@@ -24,9 +24,9 @@ The project refers to the constructivism of the 1920s and is reminiscent of the 
 
 In addition to the "legs", the Aviator's House has many other unique features: rough surfaces with traces of wooden formwork, stairwells outside, similar to fortress towers with loopholes, a cunning design of overlapping facade slabs — for better bonding and thermal insulation, there are even concrete bowls for flower beds on each balcony. It was here that monolithic construction technology was used for the first time in the USSR.
 
-<img src="https://opis-cdn.tinkoffjournal.ru/mercury/01-brutalism-moscow-desk.jpg"/>
+<img src="https://opis-cdn.tinkoffjournal.ru/mercury/07-brutalism-moscow-desk.jpg"/>
 
-<img src="https://opis-cdn.tinkoffjournal.ru/mercury/02-brutalism-moscow.jpg?preset=image_760w_2x"/>
+<img src="https://opis-cdn.tinkoffjournal.ru/mercury/08-brutalism-moscow.jpg?preset=image_760w_2x"/>
 
 3. The House of Nuclear Scientists on Tulskaya
 
