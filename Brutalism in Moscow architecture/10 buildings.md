@@ -63,9 +63,9 @@ The main object of the Olympics-80 was not the stadium or the Sports Palace, but
 
 The six-storey building with an area of more than 30,000 m2 was built in just four years and equipped with the latest technology. Four more underground levels had to be added to accommodate the bulky equipment for ventilation, heating and electricity supply.
 
-![22-brutalism-moscow-desk](https://github.com/user-attachments/assets/55df5b9f-288b-4cb3-ae12-1e23c7692f81)
+<img src="https://opis-cdn.tinkoffjournal.ru/mercury/22-brutalism-moscow-desk.jpg"/>
 
-![23-brutalism-moscow](https://github.com/user-attachments/assets/dfe5db3e-41bd-4c0b-945e-0281f417ceef)
+<img src="https://opis-cdn.tinkoffjournal.ru/mercury/23-brutalism-moscow.jpg?preset=image_760w_2x"/>
 
 .6 Blokhin National Research Medical Center of Oncology
 
