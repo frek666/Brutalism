@@ -96,3 +96,15 @@ The courtyards are sterile, like a scientific laboratory, and resemble the scene
 <img src="https://opis-cdn.tinkoffjournal.ru/mercury/32-brutalism-moscow-desk.jpg"/>
 
 <img src="https://avatars.mds.yandex.net/get-altay/2006773/2a0000016b6fcec99cb6b8b3db9a04f0ff10/XXXL"/>
+
+###  .8 The building of the Presidium of the Russian Academy of Sciences
+
+map
+The most famous example of brutalism in Moscow. And the tallest one, the 120-meter central tower, is still the only dominant one in the Leninsky Prospekt metro area. The construction of the complex took an incredible 24 years: the foundation was laid in 1974, and the last of the buildings were commissioned after the collapse of the USSR in 1996.
+
+Long-term construction often leads to a mixture of styles, and the Presidium of the Russian Academy of Sciences has not escaped this fate. To the strict modernist ideals, the prefix "post", characteristic of the "Luzhkov" 1990s, was imperceptibly added. Archaic landscaping, inappropriate small outbuildings and decorations, sculptures by Georgy Frangulyan — all this greatly violated the original idea of architect Yuri Platonov — to create an architectural embodiment of scientific and technological progress.
+
+<img src="https://opis-cdn.tinkoffjournal.ru/mercury/37-brutalism-moscow-desk.jpg"/>
+
+<img src="https://opis-cdn.tinkoffjournal.ru/mercury/38-brutalism-moscow.jpg?preset=image_760w_2x"/>
+
