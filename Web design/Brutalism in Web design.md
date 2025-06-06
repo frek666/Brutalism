@@ -6,7 +6,7 @@ This style gained popularity in website design around **2014**, peaked in **2020
 
 #### **What Defines Brutalism in Web Design?**  
 
-Brutalism rejects elegant forms and pretentiousness, favoring **simplification** over complexity. If this style were a video game character, it would look like a rugged warrior with a sword or a mace.  
+Brutalism in web design spits on neat shapes, opposes itself to overly pretentious sites, prefers simplification instead of complication. In a computer game, brutalism would be a rude warrior with a sword or mace in his hand. Brutalism is a bold style that deliberately combines rudeness, standardization and clumsy clarity. There is nothing superfluous in this style, everything is clear on a subconscious level and all the information is purely on the case.  
 
 Brutalism is a **deliberate mix** of rawness, standardization, and intentionally "unpolished" clarity. There’s nothing superfluous—everything is intuitive and straight to the point.  
 
@@ -51,9 +51,18 @@ Historically, brutalism has been used more in projects targeting a **male audien
 ---  
 
 ### **Final Thoughts**  
+
 Brutalism is a **bold, concise, and cost-effective** style. It’s not for everyone, but where it fits, it makes a powerful impression.  
 
-If your brand values **directness, functionality, and a rebellious spirit**—it’s worth a try!  
+If your brand values **directness, functionality, and a rebellious spirit**.
 
 ---  
 
+###  Examples of brutal websites
+[PART Architects.](https://www.umi-cms.ru/go-out.php?url=http://part.archi/) Website of architects for architects. The site immediately makes it clear from the main page that this web resource is made in the style of brutalism.
+
+[PW-Magazine.](https://www.umi-cms.ru/go-out.php?url=https://www.pw-magazine.com/) A magazine that combines modernity and conservative principles of brutalism.
+
+[Typical Organization.](https://www.umi-cms.ru/go-out.php?url=https://www.typical-organization.com/) The site is styled like a list, ordered by dates. The colors used are mainly black and white. The site is concise and devoid of distracting details.
+
+[Stedelijk Museum website.](https://www.umi-cms.ru/go-out.php?url=https://www.stedelijk.nl/en ) A web resource of the Amsterdam Museum of Modern Art, made in a brutal style. Large letters, classic colors, strict horizontal lines.
