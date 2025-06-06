@@ -13,6 +13,10 @@ The residential buildings are connected by heated halls on the ground floor, so 
 
 <img src="https://opis-cdn.tinkoffjournal.ru/mercury/02-brutalism-moscow.jpg?preset=image_760w_2x"/>
 
+The project did not go into production due to the high cost and design difficulties. For the same reason, a significant part of the innovative solutions remained on paper. This did not prevent the residential complex from becoming legendary even at the construction stage.
+
+A curious fact: the film "Autumn, Chertanovo" was shot entirely in this building and its surroundings.
+
 ###  2. Aviators' House on Begovaya
 
 map
@@ -28,6 +32,10 @@ In addition to the "legs", the Aviator's House has many other unique features: r
 
 <img src="https://opis-cdn.tinkoffjournal.ru/mercury/08-brutalism-moscow.jpg?preset=image_760w_2x"/>
 
+In most of these buildings, shops and restaurants occupied the "free" space between the supporting columns on the legs, but the Aviators' House was incredibly lucky.
+
+The building produces exactly the effect that Meerson envisioned, and looks like the setting of a science fiction movie. For example, one of the episodes of "Night Watch" was filmed here.
+
 ###  3. The House of Nuclear Scientists on Tulskaya
 
 map
@@ -40,6 +48,10 @@ The house was built for almost 20 years: from the beginning of the 1970s to the 
 <img src="https://opis-cdn.tinkoffjournal.ru/mercury/12-brutalism-moscow-desk.jpg"/>
 
 <img src="https://opis-cdn.tinkoffjournal.ru/mercury/13-brutalism-moscow.jpg?preset=image_760w_2x"/>
+
+It is believed that the internal voids in the walls deliberately reduced the living area of the apartments so that the extra square meters would not corrupt the Soviet citizen. In fact, everything is simpler: controversial engineering decisions were the result of endless edits made to the project already during the protracted construction process. As a result, cramped apartments without hallways, beams protruding from the walls and absurd layouts. The exterior of the house was severely damaged by the installation of air conditioners and the mass unauthorized "glazing" of balconies.
+
+A curious fact: the elevator in the building does not stop on the 3rd and 15th residential floors.
 
 ###  .4 Roscosmos on Shchepkin Street
 
@@ -54,6 +66,7 @@ The staircase nodes located at the ends are reminiscent of the architecture of T
 
 <img src="https://opis-cdn.tinkoffjournal.ru/mercury/18-brutalism-moscow.jpg?preset=image_760w_2x"/>
 
+
 ###  .5 The Olympic Games-80 Press Center
 
 map
@@ -66,6 +79,10 @@ The six-storey building with an area of more than 30,000 m2 was built in just fo
 <img src="https://opis-cdn.tinkoffjournal.ru/mercury/22-brutalism-moscow-desk.jpg"/>
 
 <img src="https://opis-cdn.tinkoffjournal.ru/mercury/23-brutalism-moscow.jpg?preset=image_760w_2x"/>
+
+The facade is familiar to every Muscovite — now the RIA Novosti office is located here. The three upper floors, similar to an inverted Aztec pyramid, are supported by four reinforced concrete towers. The portals formed by them lead to spacious courtyards. Unfortunately, the wide arches were blocked with checkpoint booths, which destroyed the original idea of an open interior space that could be viewed from the street.
+
+Architectural reference books repeatedly mention that the appearance of the press center was influenced by the nearby Food Warehouses, which now house the Museum of Moscow.
 
 ###  .6 Blokhin National Research Medical Center of Oncology
 
@@ -82,6 +99,10 @@ The tower is surrounded by blocks of hospital buildings, raised to the level of 
 
 <img src="https://opis-cdn.tinkoffjournal.ru/mercury/28-brutalism-moscow.jpg?preset=image_760w_2x"/>
 
+The turrets of the staircase and elevator nodes at the corners complete the appearance of the complex, making it look like a futuristic fortress guarding the health of a Soviet citizen.
+
+Despite the scale, the NMIC looks balanced and fits well into the architectural fabric of the area.
+
 ###  .7 Institute of Bioorganic Chemistry
 
 map
@@ -97,6 +118,10 @@ The courtyards are sterile, like a scientific laboratory, and resemble the scene
 
 <img src="https://avatars.mds.yandex.net/get-altay/2006773/2a0000016b6fcec99cb6b8b3db9a04f0ff10/XXXL"/>
 
+The interiors of the buildings make an equally strong impression: huge spiral staircases, abstract reliefs on the walls, and an abundance of sunlight.
+
+There is a real greenhouse inside one of the underground rooms.
+
 ###  .8 The building of the Presidium of the Russian Academy of Sciences
 
 map
@@ -110,6 +135,10 @@ Long-term construction often leads to a mixture of styles, and the Presidium of 
 
 <img src="https://opis-cdn.tinkoffjournal.ru/mercury/38-brutalism-moscow.jpg?preset=image_760w_2x"/>
 
+The central towers were designed to house laboratories, but physicists and chemists flatly refused to move into rooms unsuitable for practical research.
+
+The towers are crowned by the most characteristic detail of the entire complex — a complex structure made of metal and glass with a gold coating. All windows and stained glass windows in the building are tinted with the same spray.
+
 ###  .9 Dynamo Sports Palace
 
 map
@@ -122,3 +151,24 @@ Dynamo was built inside residential areas and is carefully integrated into the h
 <img src="https://opis-cdn.tinkoffjournal.ru/mercury/42-brutalism-moscow-desk.jpg"/>
 
 <img src="https://opis-cdn.tinkoffjournal.ru/mercury/43-brutalism-moscow.jpg?preset=image_760w_2x"/>
+
+Previously, the upper part of the facade was decorated with an abstract stainless steel composition, similar to banners fluttering in the wind. Whether it became a victim of non-ferrous metal hunters in the 1990s or simply fell into disrepair and was dismantled remains a mystery.
+
+Only the sign adorning the stylobate has been preserved in its original form. It has been unchanged since its construction and is also made of steel — a rare piece of luck for late Soviet industrial design.
+
+###  .10 Ostankino Tower
+
+map
+https://yandex.com/maps/org/ostankinskaya_telebashnya/1305642931/?ll=37.609867%2C55.819722&z=17
+
+The Ostankino Tower is a pure function embodied in reinforced concrete. Built during the era of the USSR's leadership in the space race, the tower looks like a rocket soaring into the sky. At the time of construction, it was the tallest building in the world. The tower held this record for 10 years.
+
+Initially, the Ostankino Tower was planned to be built of steel — its openwork shape was supposed to resemble Shukhov's designs or the Eiffel Tower. Engineer Nikolai Nikitin's project was groundbreaking for its time — the television center was decided to be made of reinforced concrete. The strength of the building is provided by 149 cables stretched inside the hollow structure. From the balconies of residential buildings located nearby, you can clearly see how the tower sways in the wind.
+
+<img src="https://opis-cdn.tinkoffjournal.ru/mercury/47-brutalism-moscow-desk.jpg"/>
+
+<img src="https://opis-cdn.tinkoffjournal.ru/mercury/48-brutalism-moscow.jpg?preset=image_760w_2x"/>
+
+The TV tower grows out of a cone-shaped base. According to Nikitin himself, he dreamed of it in the form of an inverted lily. The only decoration that the architects of the Moscow Project allowed to add is round windows arranged in a checkerboard pattern. However, windows also have a function: they provide additional structural strength.
+
+At a level of 325 meters, the tower has a glass bulge, giving it a recognizable appearance. Equipment, an observation deck and a restaurant with a rotating floor are located in the thickening.
