@@ -11,7 +11,7 @@ The residential buildings are connected by heated halls on the ground floor, so 
 
 ###  попробуй ссылкой с источника 
 
-<img src="https://opis-cdn.tinkoffjournal.ru/mercury/01-brutalism-moscow-desk.jpg" width="300"/>
+<img src="https://opis-cdn.tinkoffjournal.ru/mercury/01-brutalism-moscow-desk.jpg"/>
 
 
 
