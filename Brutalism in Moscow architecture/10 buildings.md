@@ -1,6 +1,6 @@
 ###  10 buildings
 
-1. Chertanovo Severnoye residential area
+###  1. Chertanovo Severnoye residential area
 
 map
 https://yandex.com/maps/org/eksperimentalny_kvartal_mikrorayon_severnoye_chertanovo/174693889183/?ll=37.595527%2C55.636072&z=16
@@ -13,7 +13,7 @@ The residential buildings are connected by heated halls on the ground floor, so 
 
 <img src="https://opis-cdn.tinkoffjournal.ru/mercury/02-brutalism-moscow.jpg?preset=image_760w_2x"/>
 
-2. Aviators' House on Begovaya
+###  2. Aviators' House on Begovaya
 
 map
 https://yandex.com/maps/org/dom_aviatorov/181679471355/?ll=37.564330%2C55.783656&z=17
@@ -28,7 +28,7 @@ In addition to the "legs", the Aviator's House has many other unique features: r
 
 <img src="https://opis-cdn.tinkoffjournal.ru/mercury/08-brutalism-moscow.jpg?preset=image_760w_2x"/>
 
-3. The House of Nuclear Scientists on Tulskaya
+###  3. The House of Nuclear Scientists on Tulskaya
 
 map
 https://yandex.com/maps/org/dom_korabl/129890625466/?ll=37.620770%2C55.709018&z=17
@@ -41,7 +41,7 @@ The house was built for almost 20 years: from the beginning of the 1970s to the 
 
 <img src="https://opis-cdn.tinkoffjournal.ru/mercury/13-brutalism-moscow.jpg?preset=image_760w_2x"/>
 
-.4 Roscosmos on Shchepkin Street
+###  .4 Roscosmos on Shchepkin Street
 
 map
 https://yandex.com/maps/213/moscow/house/ulitsa_shchepkina_42s1/Z04YcARgTE0HQFtvfXt5cnhjYw==/?ll=37.630580%2C55.783408&z=17
@@ -54,7 +54,7 @@ The staircase nodes located at the ends are reminiscent of the architecture of T
 
 <img src="https://opis-cdn.tinkoffjournal.ru/mercury/18-brutalism-moscow.jpg?preset=image_760w_2x"/>
 
-.5 The Olympic Games-80 Press Center
+###  .5 The Olympic Games-80 Press Center
 
 map
 https://yandex.com/maps/org/ria_novosti/1061985604/?ll=37.589812%2C55.737575&z=16
@@ -67,7 +67,7 @@ The six-storey building with an area of more than 30,000 m2 was built in just fo
 
 <img src="https://opis-cdn.tinkoffjournal.ru/mercury/23-brutalism-moscow.jpg?preset=image_760w_2x"/>
 
-.6 Blokhin National Research Medical Center of Oncology
+###  .6 Blokhin National Research Medical Center of Oncology
 
 map
 https://yandex.com/maps/org/natsionalny_meditsinskiy_issledovatelskiy_tsentr_onkologii_imeni_n_n_blokhina/1320678043/?ll=37.644306%2C55.659429&z=17
@@ -78,6 +78,6 @@ The central part of the complex is a 23—storey high-rise, which is popularly c
 
 The tower is surrounded by blocks of hospital buildings, raised to the level of the third floor by an elegant colonnade. The thin reinforced concrete supports contrast sharply with the powerful ribs of the pylons supporting the wings of the central structure. Ribbon glazing encircles the buildings around the perimeter, visually making them even more elongated.
 
-![27-brutalism-moscow-desk](https://github.com/user-attachments/assets/81cb84df-ea27-4851-9c5b-18841df52175)
+<img src="https://opis-cdn.tinkoffjournal.ru/mercury/27-brutalism-moscow-desk.jpg"/>
 
-![28-brutalism-moscow](https://github.com/user-attachments/assets/b75d7c9a-b9c5-40a7-93dd-1390200bc0fc)
+<img src="https://opis-cdn.tinkoffjournal.ru/mercury/28-brutalism-moscow.jpg?preset=image_760w_2x"/>
