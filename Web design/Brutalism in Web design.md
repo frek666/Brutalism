@@ -59,10 +59,10 @@ If your brand values **directness, functionality, and a rebellious spirit**.
 ---  
 
 ###  Examples of brutal websites
-[PART Architects.](https://www.umi-cms.ru/go-out.php?url=http://part.archi/) Website of architects for architects. The site immediately makes it clear from the main page that this web resource is made in the style of brutalism.
+[PART Architects.](https://part.archi/) Website of architects for architects. The site immediately makes it clear from the main page that this web resource is made in the style of brutalism.
 
-[PW-Magazine.](https://www.umi-cms.ru/go-out.php?url=https://www.pw-magazine.com/) A magazine that combines modernity and conservative principles of brutalism.
+[PW-Magazine.](https://pw-magazine.com/home) A magazine that combines modernity and conservative principles of brutalism.
 
-[Typical Organization.](https://www.umi-cms.ru/go-out.php?url=https://www.typical-organization.com/) The site is styled like a list, ordered by dates. The colors used are mainly black and white. The site is concise and devoid of distracting details.
+[Typical Organization.](https://www.typical-organization.com/) The site is styled like a list, ordered by dates. The colors used are mainly black and white. The site is concise and devoid of distracting details.
 
-[Stedelijk Museum website.](https://www.umi-cms.ru/go-out.php?url=https://www.stedelijk.nl/en ) A web resource of the Amsterdam Museum of Modern Art, made in a brutal style. Large letters, classic colors, strict horizontal lines.
+[Stedelijk Museum website.](https://www.stedelijk.nl/en) A web resource of the Amsterdam Museum of Modern Art, made in a brutal style. Large letters, classic colors, strict horizontal lines.
