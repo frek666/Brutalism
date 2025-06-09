@@ -51,43 +51,70 @@ Le Corbusier’s "Radiant City" principles included:
 
 ### **Key Examples of Brutalist Architecture Worldwide**  
 
-#### **1. United Kingdom**  
-- **The Barbican Centre (London, 1965–1982)**  
-  Architects: Chamberlin, Powell & Bon  
-  Features: Tiered concrete terraces, elevated walkways, integrated greenery.  
+**Grand Concert Hall of the Krasnoyarsk Regional Philharmonic**
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Krasnoyarsk_Regional_Philharmonic%2C_the_Grand_Concert_Hall.jpg/960px-Krasnoyarsk_Regional_Philharmonic%2C_the_Grand_Concert_Hall.jpg?20150715084100"/>
 
-- **Habitat 67 (Montreal, 1967)**  
-  Architect: Moshe Safdie  
-  Modular concrete housing with stacked units and private terraces.  
+---
 
-#### **2. United States**  
-- **Boston City Hall (1968)**  
-  Architects: Kallmann, McKinnell & Knowles  
-  Bold cantilevers, exposed structures, and aggressive geometry.  
+**Geisel Librarie Library at the University of California, San Diego, USA (1970). Architect William Leonard Pereira**
+<img src="https://avatars.dzeninfra.ru/get-zen_doc/1347728/pub_5c573ae60f810000ad8ca680_5c573dd2c7f75d00adc64d78/scale_1200"/>
 
-- **Pruitt-Igoe (St. Louis, 1954, demolished 1972)**  
-  A notorious example of Brutalist public housing failures.  
+---
 
-#### **3. Europe**  
-- **National Library of France (Paris, 1995)**  
-  Architect: Dominique Perrault  
-  Glass towers with a "forest" of internal concrete supports.  
+**Barco Law Building, University of Pittsburgh School of Law, USA**
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/BarcoSummer.jpg/960px-BarcoSummer.jpg?20080703143658"/>
 
-#### **4. USSR/Russia**  
-- **Council for Mutual Economic Assistance Building (Moscow, 1969)**  
-  Architects: M. Posokhin, A. Mndoyants  
-  Rotating tower with raw concrete and daring cantilevers.  
+--
 
-#### **5. Asia**  
-- **St. Mary’s Cathedral (Tokyo, 1964)**  
-  Architect: Kenzō Tange  
-  Striking concrete cruciform structure.  
+**John Roberts Library Building, University of Toronto, Toronto, Canada**
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Robarts_front_750px.jpg?20060916095020"/>
 
----  
+--
 
-### **Brutalism’s Contemporary Revival**  
-1. **Neo-Brutalism** – Polished concrete (Tadao Ando) and hybrid designs (concrete + wood).  
-2. **Design Influence** – Brutalist interiors, typography, and graphics.  
-3. **Cultural Status** – UNESCO recognition, photography projects, and heritage tours.  
+**The Parliament Building in Dhaka, Bangladesh, 1961. Architect Louis Kahn**
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Jatiyo_Sangshad_Bhaban%2C_Dhaka_%282%29.jpg/960px-Jatiyo_Sangshad_Bhaban%2C_Dhaka_%282%29.jpg?20070403092525"/>
 
-*(This translation maintains the original structure while adapting phrasing for natural English readability. Let me know if you'd like any refinements!)*
+---
+
+**Edgar Hoover Building, Washington, USA**
+<img src="https://live.staticflickr.com/3392/3229587455_6b9c00acf6_b.jpg"/>
+
+--
+
+**Gymnasium in Kagawa Prefecture, Japan, 1964. Architect Kenzo Tange**
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/aa/Takamatsukagawa_Gymnasium1.JPG?20100117070007"/>
+
+---
+
+**Boston City Hall, 1981, Boston, Massachusetts, USA. Architects: G. Kalman, M. McKinley, E. Knowles**
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Boston_City_Hall_2004.jpg/960px-Boston_City_Hall_2004.jpg?20090618072747"/>
+
+---
+
+**Pirita Marina Hotel, Tallinn, Estonia**
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Regati_pst_brutalist_building.jpg/960px-Regati_pst_brutalist_building.jpg?20250410114914"/>
+
+---
+
+**Buffalo City Courthouse, 1974**
+<img src="https://i.pinimg.com/originals/71/26/cc/7126cc44a151918cc469ce5b09f04179.jpg"/>
+
+---
+
+**National Medical Research Center of Oncology named after N. N. Blokhin, Moscow**
+<img src="https://kherson-news.ru/img/20230309/b49ea46c71023ac1b170fadcf64deada_o.jpg"/>
+
+---
+
+**Military Medical Academy in Belgrade, Serbia, 1981**
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Zgrada_VMA_%281%29.jpg/800px-Zgrada_VMA_%281%29.jpg?20161020203316"/>
+
+---
+
+**Takamatsu Sports Arena. 1962-64. Architect Kenzo Tange**
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Tange_Takamatsu-1979.jpg/960px-Tange_Takamatsu-1979.jpg?20160927165142"/>
+
+---
+
+**City Hospital No. 8, Obninsk**
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/03/%D0%93%D0%BE%D1%80%D0%BE%D0%B4%D1%81%D0%BA%D0%B0%D1%8F_%D0%91%D0%BE%D0%BB%D1%8C%D0%BD%D0%B8%D1%86%D0%B0_8_%D0%9E%D0%B1%D0%BD%D0%B8%D0%BD%D1%81%D0%BA.jpg?20220709190804"/>
