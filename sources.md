@@ -9,3 +9,5 @@
 [books.totalarch](https://books.totalarch.com/)
 
 [wallpaper](https://www.wallpaper.com/)
+
+[idbi](https://idbi.ru/)
