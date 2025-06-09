@@ -19,6 +19,8 @@ Many scholars argue that Brutalism formed the basis of Soviet modernism. Both st
 
 Their compositions were meant to reflect the scale of socialist ideals and anti-bourgeois principles.  
 
+<img src="https://avatars.mds.yandex.net/i?id=5937229f7272bff7eb3fececa18c89db_l-4592723-images-thumbs&n=13"/>
+
 ### **Distinct Features of Soviet Modernism**  
 However, equating it entirely with Brutalism would be inaccurate. Soviet modernism had unique characteristics:  
 - **Cladding materials** (marble, sandstone, ceramic, shell limestone).  
