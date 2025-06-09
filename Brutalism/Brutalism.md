@@ -49,6 +49,11 @@ Le Corbusier’s "Radiant City" principles included:
 
 ---  
 
+**Key thought**:  
+Le Corbusier did not build in Britain, but his philosophy of "architecture for the people" through concrete and urban ideas defined the face of British brutalism. Despite the contradictions, this trend remains an important chapter in the history of modernism.
+
+<img src="https://avatars.dzeninfra.ru/get-zen_doc/271828/pub_672a353bc0e9162f8125e3f4_672a35535138297dd3a6c66b/scale_1200"/>
+
 ### **Key Examples of Brutalist Architecture Worldwide**  
 
 **Grand Concert Hall of the Krasnoyarsk Regional Philharmonic**
