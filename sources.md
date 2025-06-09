@@ -12,4 +12,4 @@
 
 [idbi](https://idbi.ru/)
 
-<img src="https://i.pinimg.com/736x/68/09/2e/68092e05e223ecea624c9ff93de5ee3f.jpg"/>
+<img src="https://i.pinimg.com/736x/aa/7d/a3/aa7da35259e4255061cadc86678925b1.jpg"/>
