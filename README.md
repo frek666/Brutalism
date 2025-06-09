@@ -3,6 +3,8 @@
 ## **Introduction**  
 Brutalism (from the French *béton brut*, meaning "raw concrete") is a movement in architecture and design characterized by massive forms, exposed structures, rough textures, and a lack of ornamentation. Emerging in the mid-20th century as part of modernism, brutalism is now experiencing a revival, particularly in digital and graphic design.  
 
+<img src="https://i.pinimg.com/736x/bc/7e/67/bc7e679944dee306a00f8c141b8ba6bb.jpg"/>
+
 ## **History of Brutalism**  
 Brutalism originated in post-war Europe, where the affordability and functionality of raw materials (primarily concrete) became the foundation for new architectural forms. Pioneers of the style included Le Corbusier (*Unité d'Habitation* in Marseille) and the duo Alison and Peter Smithson.  
 
