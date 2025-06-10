@@ -35,12 +35,14 @@ To create a poster in the **brutalism style**, you need a raw, straightforward a
 - Add "artifacts" – scratches, stains, imperfections.  
 
 ### **4. Inspiration Examples:**  
-- Posters by **David Carson** (grunge typography).  
-- **Swiss Style** posters (but with rough textures).  
-- Soviet constructivist posters (but with a harsher look).  
+- Posters by **David Carson** (grunge typography).
+  <img src="https://i.pinimg.com/474x/fb/f2/23/fbf223e98b348f39c8bd254f0a1b3051.jpg?nii=t"/>
+- **Swiss Style** posters (but with rough textures).
+  <img src="https://ic.pics.livejournal.com/nobelfaik/13371134/146744/146744_original.png"/>
+- Soviet constructivist posters (but with a harsher look).
+  <img src="https://files.mediiia.ru/postimages/4668/1a51d5ccf49c4621889089f943331941/8dbeec2496d24659964adf3c67e155881152x816.jpg'/> 
 
 ### **5. Ready-Made Templates (if short on time):**  
 - **Freepik** (search for *brutalism poster*).  
 - **Behance / Dribbble** (look for *brutalist design*).  
 
-If you want a specific example, describe your poster's theme, and I can suggest a visual concept!
