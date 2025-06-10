@@ -1,0 +1,185 @@
+/* designed by https://dribbble.com/nanukamandaria */
+ @import url('https://fonts.googleapis.com/css2?family=Kanit:wght@400;500;600;700&display=swap');
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: 'Kanit', sans-serif;
+  font-weight: 500;
+}
+html{
+  margin: auto;
+  max-width: 1000px;
+  height: 100dvh;
+  overflow: hidden;
+}
+.arrow{
+  position: relative;
+  width: 100px;
+  height: 100px;
+}
+
+span{
+  position: absolute;
+  background: black;
+  transition: all 300ms ease-out;
+}
+.arrow span:nth-child(1){
+  right: 0;
+  width: 100%;
+  height: 15%;
+}
+.arrow span:nth-child(2){
+  width: 15%;
+  height: 100%;
+  top: 0;
+  right: 0;
+}
+.arrow span:nth-child(3){
+  width: 120px;
+  height: 15px;
+  top: 7.5px;
+  right: 15px;
+  transform: rotate(-45deg);
+  transform-origin: top right;
+}
+header:hover .arrow span:nth-child(1){
+  width: 200px;
+}
+header:hover .arrow span:nth-child(2){
+  height: 200px;
+}
+header:hover .arrow span:nth-child(3){
+  width: 250px;
+}
+.asterix{
+  position: relative;
+  margin-right: 1rem;
+  width: 50px;
+  height: 50px;
+  aspect-ratio: 1/1;
+  transform-origin: center;
+  transition: all 500ms ease-out;
+}
+.paragraph:hover .asterix{
+  transform: rotate(180deg);
+}
+.asterix span{
+  width: 50px;
+  height: 5px;
+  bottom: 50%;
+  left: 50%;
+  transform-origin: center;
+}
+.asterix span:nth-child(1){
+  transform: translateX(-50%) translateY(50%) rotate(0);
+}
+.asterix span:nth-child(2){
+  transform: translateX(-50%) translateY(50%) rotate(45deg);
+}
+.asterix span:nth-child(3){
+  transform: translateX(-50%) translateY(50%) rotate(90deg);
+}
+.asterix span:nth-child(4){
+  transform: translateX(-50%) translateY(50%) rotate(135deg);
+}
+h1{
+  font-size: 10rem;
+  line-height: 1;
+}
+
+nav{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+header{
+  margin: 2rem;
+}
+main{
+  margin: 0 2rem 1.5rem 2rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: end;
+}
+.content {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: end;
+  width: 50%;
+}
+h2{
+  font-size: 1.4rem;
+  line-height: 1.5rem;
+  margin-bottom: 1rem;
+}
+.paragraph{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+p{
+  font-size: 13px;
+  font-weight: 300;
+}
+.date{
+  line-height: 1;
+  font-size: 2rem;
+  font-weight: 400;
+}
+
+@media only screen and (max-width: 800px) {
+  .arrow{
+    position: relative;
+    width: 50px;
+    height: 50px;
+  }
+  .arrow span:nth-child(3){
+    width: 60px;
+    height: 7.5px;
+    top: 3.75px;
+    right: 7.5px;
+  }
+  header:hover .arrow span:nth-child(1){
+    width: 100px;
+  }
+  header:hover .arrow span:nth-child(2){
+    height: 100px;
+  }
+  header:hover .arrow span:nth-child(3){
+    width: 125px;
+  }
+  .asterix{
+    margin-right: .5rem;
+    width: 25px;
+    height: 25px;
+  }
+  .asterix span{
+    width: 25px;
+    height: 2.5px;
+  }
+  h1{
+    font-size: 5rem;
+    line-height: .8;
+  }
+
+  header{
+    margin: 1rem;
+  }
+  main{
+    margin: 0 1rem .75rem 1rem;
+  }
+  h2{
+    font-size: .7rem;
+    line-height: .75rem;
+    margin-bottom: .5rem;
+  }
+  p{
+    font-size: 8px;
+  }
+  .date{
+    line-height: .8;
+    font-size: 1rem;
+  }
+}
