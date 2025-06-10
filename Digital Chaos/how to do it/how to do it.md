@@ -40,7 +40,7 @@ To create a poster in the **brutalism style**, you need a raw, straightforward a
 - **Swiss Style** posters (but with rough textures).
   <img src="https://ic.pics.livejournal.com/nobelfaik/13371134/146744/146744_original.png"/>
 - Soviet constructivist posters (but with a harsher look).
-  <img src="https://files.mediiia.ru/postimages/4668/1a51d5ccf49c4621889089f943331941/8dbeec2496d24659964adf3c67e155881152x816.jpg'/> 
+  <img src="https://files.mediiia.ru/postimages/4668/1a51d5ccf49c4621889089f943331941/8dbeec2496d24659964adf3c67e155881152x816.jpg"/>
 
 ### **5. Ready-Made Templates (if short on time):**  
 - **Freepik** (search for *brutalism poster*).  
